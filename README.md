@@ -1,2 +1,2 @@
 # Drum_KIT-Project
-In which we HTML , CSS and JavaScript
+In which we use  HTML , CSS and JavaScript
